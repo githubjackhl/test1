@@ -1,3 +1,4 @@
 <?php
-  echo __File__;
+  echo __FILE__;
+  echo __DIR___;
 ?>
